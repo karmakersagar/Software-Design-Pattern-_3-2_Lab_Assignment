@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+        <Button value="Click on me" X="250" Y="300" />
+        <EditBox value="Some text to edit" X="250" Y="350"/>
+</item>
