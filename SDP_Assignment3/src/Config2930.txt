@@ -1,0 +1,3 @@
+Button, Click on me,X: 250,Y: 300,color: Yellow,textSize: Large
+EditBox, Some text to edit,X: 250,Y: 350,color: Green,textSize: Large
+TextBox, This a text Box,X: 350,Y: 400,color: Green,textSize: Large

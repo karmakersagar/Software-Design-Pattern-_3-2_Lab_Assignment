@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+        <Button value="Click on me" X="250" Y="300"  color = "Red" textSize="Large"/>
+        <EditBox value="Some text to edit" X="250" Y="350" color = "Green" textSize ="Large"/>
+        <TextBox value="This a text box in a xml file" X ="350" Y="400" color = "Green" textSize="Large"/>
+</item>
